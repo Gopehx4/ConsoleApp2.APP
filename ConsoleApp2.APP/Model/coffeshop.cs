@@ -1,3 +1,3 @@
 ﻿namespace ConsoleApp2.APP.Model;
 
-auto commit no
+auto commit no mna
