@@ -1,1 +1,5 @@
-﻿namespace ConsoleApp2.APP.Model;
+﻿
+
+show coffe show
+
+namespace ConsoleApp2.APP.Model;
